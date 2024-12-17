@@ -1,0 +1,9 @@
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\bin\Debug\igra_zhizn.exe.config
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\bin\Debug\igra_zhizn.exe
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\bin\Debug\igra_zhizn.pdb
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\obj\Debug\igra_zhizn.csproj.AssemblyReference.cache
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\obj\Debug\igra_zhizn.Properties.Resources.resources
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\obj\Debug\igra_zhizn.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\obj\Debug\igra_zhizn.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\obj\Debug\igra_zhizn.exe
+C:\Users\Maxim\source\repos\igra_zhizn\igra_zhizn\obj\Debug\igra_zhizn.pdb
